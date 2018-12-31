@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "slit", "slit\slit.pyproj", "{7CA6E126-A958-4FB7-9FCE-A5A2AB0A6AAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CA6E126-A958-4FB7-9FCE-A5A2AB0A6AAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CA6E126-A958-4FB7-9FCE-A5A2AB0A6AAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F744F48-087D-41FE-912B-2655FDD95C4A}
+	EndGlobalSection
+EndGlobal
